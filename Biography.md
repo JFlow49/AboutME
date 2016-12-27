@@ -10,5 +10,4 @@ My interests include software development, database management, hardware design,
 
 If you would like to know anymore about me, you can contact me at Jordan.Flowers@ttu.edu
 
-Thanks,
-  Jordan Flowers
+Jordan Flowers
