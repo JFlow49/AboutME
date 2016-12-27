@@ -6,6 +6,6 @@ I originally started out majoring in Electrical Engineering but decided that I w
 
 My interests include software development, database management, hardware design, and network security. In my free time, I enjoy learning about emerging technologies, playing and watching sports, boating, fishing, programming, and playing video games.
 
-If you would like to know anymore about me, you can contact me at Jordan.Flowers@ttu.edu
+If you would like to know anymore about me, you can contact me at JFlow49@gmail.com or at Jordan.Flowers@ttu.edu.
 
 ~ Jordan Flowers
